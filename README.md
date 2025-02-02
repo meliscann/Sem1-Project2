@@ -1,6 +1,6 @@
 # Sem1-Project2
 
-This **C**code was written as part of my learning process during my first year of university. It includes various operations on binary numbers such as converting decimal to binary, binary to decimal, binary addition, and performing basic arithmetic operations based on user input. The goal was to practice fundamental programming concepts like arrays, loops, and conditionals while working with binary representations and basic arithmetic.
+This **C** code was written as part of my learning process during my first year of university. It includes various operations on binary numbers such as converting decimal to binary, binary to decimal, binary addition, and performing basic arithmetic operations based on user input. The goal was to practice fundamental programming concepts like arrays, loops, and conditionals while working with binary representations and basic arithmetic.
 
 **Here's a simple breakdown:**
 
