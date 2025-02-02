@@ -4,10 +4,10 @@ This **C** code was written as part of my learning process during my first year 
 
 **Here's a simple breakdown:**
 
-**Decimal to Binary:** Converts a decimal number (between -127 and 128) into an 8-bit binary number.
-**Binary to Decimal:** Converts an 8-bit binary number back into its decimal equivalent.
-**Binary Addition:** Adds two 8-bit binary numbers together and shows the result.
-**Basic Math Operations:** Allows the user to choose between addition, multiplication, or division, and performs the selected operation on two numbers.
+- **Decimal to Binary:** Converts a decimal number (between -127 and 128) into an 8-bit binary number.
+- **Binary to Decimal:** Converts an 8-bit binary number back into its decimal equivalent.
+- **Binary Addition:** Adds two 8-bit binary numbers together and shows the result.
+- **Basic Math Operations:** Allows the user to choose between addition, multiplication, or division, and performs the selected operation on two numbers.
 
 
 
